@@ -4890,7 +4890,7 @@ __metadata:
     source-map-support: ^0.5.19
     typescript: ^4.1.5
     uuid: ^8.3.2
-    validator: ^13.5.2
+    validator: ^13.15.22
   languageName: unknown
   linkType: soft
 
@@ -16287,10 +16287,10 @@ typescript@^4.1.5:
   languageName: node
   linkType: hard
 
-"validator@npm:^13.5.2":
-  version: 13.5.2
-  resolution: "validator@npm:13.5.2"
-  checksum: 6da12682ad43456cb3a97d23b35cad0b438d9027a6c6fd824d5c86fead42c28f4e38c67590d8f56ab44e6c612979cbaa5f5cc670cc5fcc5a39d5032fcb642296
+"validator@npm:^13.15.22":
+  version: 13.15.23
+  resolution: "validator@npm:13.15.23"
+  checksum: 7ccabe178a941980dd2f502ae97d676a84341b58dcf35d4bf784db507505a4092cefec8a543f94fc3586e3ea4b25017ed058d94585a6d523c315bf8ae1e39872
   languageName: node
   linkType: hard
 
